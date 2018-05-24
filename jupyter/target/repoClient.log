@@ -2,3 +2,11 @@
 05/22/18/18 01:42:24.715|WARN ||||org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:62)|Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
 05/22/18/18 01:42:25.419|WARN ||||org.apache.spark.internal.Logging$class.logWarning(Logging.scala:66)|Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
 05/22/18/18 01:45:23.686|WARN ||||org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:62)|Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+05/23/18/18 04:00:49.618|WARN ||||org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:62)|Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+05/24/18/18 00:58:30.719|WARN ||||org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:62)|Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+05/24/18/18 01:36:24.196|WARN ||||org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:62)|Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+05/24/18/18 01:36:24.815|WARN ||||org.apache.spark.internal.Logging$class.logWarning(Logging.scala:66)|Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+05/24/18/18 01:37:06.777|WARN ||||org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:62)|Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+05/24/18/18 01:37:07.393|WARN ||||org.apache.spark.internal.Logging$class.logWarning(Logging.scala:66)|Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+05/24/18/18 01:37:07.394|WARN ||||org.apache.spark.internal.Logging$class.logWarning(Logging.scala:66)|Service 'SparkUI' could not bind on port 4041. Attempting port 4042.
+05/24/18/18 06:12:58.242|WARN ||||org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:62)|Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
